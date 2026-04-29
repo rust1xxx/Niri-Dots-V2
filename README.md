@@ -5,7 +5,7 @@
 * **Bar:** `waybar`
 * **Wallpaper:** `swww`
 * **Terminal:** `kitty`
-* **Audio:** `cava`
+* **Audio vis.:** `cava`
 
 You can setup any colors what you want, i prefer black + orange
 
